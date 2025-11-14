@@ -1,0 +1,49 @@
+SOUNDER K
+SOFTWARE ENGINEERING STUDENT
+Initiated the development of a broad spectrum of programming competencies crucial for a successful IT
+career, excelling in problem-solving and spearheading innovative projects with a strong emphasis on
+consistently delivering top-notch performance.
++91 93602 43405	sounder18.it@gmail.com 	github.com/sounder1
+Event Decor Management - Full Stack
+Simplify venue booking for birthdays, weddings, and more. Utilizes React.js frontend,
+Spring Boot backend, and MySQL database
+Customized Gift Portal Website - Full Stack
+Order personalized gifts for any occasion hassle-free. Utilizes React.js frontend, Spring
+Boot backend, and MySQL database.
+https://github.com/sounder1/Customized-gift-portalt
+Projects
+Bachelor Of Technology - Information Technology
+Java
+Object Oriented Programming
+Data Structures and Algorithms
+React JS
+MySQL
+Database Management System
+Cloud Computing using AWS
+Version Control using Git
+Problem Solving
+Higher Secondary - 2020 - 2021
+HSC - 92
+Sri Krishna College Of Engineering And Technology
+Srinivasa Vidhyalaya
+Education
+Skills
+https://github.com/sounder1/Event-Decor-Management
+CGPA: 8.2
+Secondary School - 2018 - 2019
+SSLC - 92
+VIDYA NETHRRA
+AWS Academy Cloud Foundations - AWS
+Programming Essentials in Python - CISCO
+Networking Essentials - CISCO
+Certification 	Achievements
+Third Prize in Reverse Coding Contest -
+SKCET
+https://leetcode.com/u/sounder18/
+Solved 150+ Problems in leetCode
+Leetcode Solved 150+ Problems
+Repo
+Basics of JavaScript
+Basics Of C and C++
+
+-- 1 of 1 --
