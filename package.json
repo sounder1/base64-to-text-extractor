@@ -1,5 +1,17 @@
 {
+  "name": "pdf-extractor-service",
+  "version": "1.0.0",
+  "description": "PDF Text Extractor Service for ServiceNow Integration",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
   "dependencies": {
+    "express": "^4.18.2",
     "pdf-parse": "^2.4.5"
+  },
+  "engines": {
+    "node": ">=14.0.0"
   }
 }
